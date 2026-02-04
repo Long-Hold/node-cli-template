@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "jest",
+    "test": "jest src/tests/",
     "format": "prettier . --write"
   },
   "keywords": [],
